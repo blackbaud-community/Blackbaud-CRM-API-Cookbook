@@ -8,7 +8,7 @@ require_once("helperfunctions.php");
 
 function getErrorMessage($exceptionMsg) {
 	
-	# loop thru array looking for error wihtin $exceptionMsg
+	# loop through array looking for error within $exceptionMsg
 	# If found
 	#	Return a nice error message
 	# ELSE
