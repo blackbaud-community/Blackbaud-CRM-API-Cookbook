@@ -7,7 +7,7 @@ In order to retrieve the data, each sample typically takes an ID (Primary Key) v
 
 ![AddressSample](http://blackbaud-community.github.io/Blackbaud-CRM/images/CookbookAddressList.png)
 
-... and/or query string in the URL
+... and/or query string in the URL.  Note in the example below how we provide a GUID Constituent ID within the query string in the URL.  The GUID represents a primary key value for a constituent.  
 
     Ex: http://localhost:800/AddressList.php?ConstituentID=0030D1BA-4A49-44AB-A44C-F9E294CDE8C0
 
