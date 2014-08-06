@@ -7,7 +7,7 @@ The API cookbook samples demonstrate how to call individual features (ex: Contac
 If you would like to contribute your own code sample to the API cookbook, please read the following resources:
 
 * [Blackbaud CRM Read Me](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/README.md)
-* [Contributing to the blackbaud-community](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/contributing.md)
+* [Contributing to the blackbaud-community](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/CONTRIBUTING.md)
 
 ##Providing a Primary Key Guid for the Record Type ID##
 In order to retrieve the data, each sample typically takes an ID (Primary Key) value of a certain Record Type (Constituent, Address, etc.) in either an html input...
