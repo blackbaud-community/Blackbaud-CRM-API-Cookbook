@@ -54,7 +54,7 @@ Bootstrap is built to work best in the latest desktop and mobile browsers, meani
 * [AppFxWebService.asmx](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityWebAPI/coAppFxWebService.asmx.htm)
 * [Locating the Endpoint](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/LocatingAppFxWebServiceEndpoint.htm)
 * [Authentication and Authorization](https://www.blackbaud.com/files/support/guides/infinitydevguide/Subsystems/inwebapi-developer-help/Content/InfinityWebAPI/coAuthenticationAndAuthorization.htm)
-* 
+
 ##Contributing##
 
 Third-party contributions are how we keep the code samples great. We want to keep it as easy as possible to contribute changes that show others how to do cool things with Blackbaud SDKs and APIs. There are a few guidelines that we need contributors to follow.
